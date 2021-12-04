@@ -1,0 +1,36 @@
+.card{
+    margin-top: 25px;
+    margin-left: 80px;
+    margin-bottom: 25px;
+    width: 500px;
+    height: 520px;
+    box-shadow: 2px 2px 5px #999;
+    border-radius: 8px;
+}
+
+.contenedorTarjetas{
+    display: inline-flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+}
+
+.formulario{
+    display: inline-flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+}
+
+.banner{
+    height: 100%;
+}
+
+.logo{
+    width: 200px;
+}
+
+.contenedorbanner{
+    background-image: url("../source/e4e3b479.jpg");
+    background-size: cover;
+    height: 400px;
+}
+
